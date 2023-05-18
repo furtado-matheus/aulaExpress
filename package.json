@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "aula17_05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furtado-matheus/aulaExpress.git"
+  },
+  "author": "furtado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furtado-matheus/aulaExpress/issues"
+  },
+  "homepage": "https://github.com/furtado-matheus/aulaExpress#readme",
+  "description": ""
+}
